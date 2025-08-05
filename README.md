@@ -32,6 +32,3 @@ A modern, clean, and fully offline-capable note-taking app built with Jetpack Co
 | Dependency DI   | Hilt              |
 
 ---
-
-## 📁 Folder Structure
-
