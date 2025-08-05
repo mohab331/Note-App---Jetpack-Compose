@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="app_title">Note App - Compose</string>
+    <string name="title_icon">Title Icon</string>
+    <string name="title">Title</string>
+    <string name="enter_note_title">Enter note title</string>
+    <string name="description_icon">Description Icon</string>
+    <string name="description">Description</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="save">Save</string>
+    <string name="save_icon">Save Icon</string>
+    <string name="note_saved">Note saved successfully!</string>
+</resources>
